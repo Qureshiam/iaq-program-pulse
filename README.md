@@ -4,7 +4,7 @@
 
 Every week, program owners write a few lines on how things are going. Most of them report green. Program Pulse reads what they actually wrote, says what the text really supports, and shows the quote behind every call. Plain rules watch the history for drift. A person approves each line before anything reaches the founder or the board.
 
-**[Live demo](https://YOUR-APP-NAME.streamlit.app)** · runs on saved AI outputs, so it is free to click around
+**[Live demo](https://program-pulse-demo.streamlit.app)** · runs on saved AI outputs, so it is free to click around
 
 ![Portfolio view](assets/portfolio.png)
 
@@ -63,7 +63,7 @@ Architecture and design choices: [docs/architecture.md](docs/architecture.md)
 You need Python 3.11 or newer.
 
 ```bash
-git clone https://github.com/YOUR-GITHUB-USERNAME/iaq-program-pulse.git
+git clone https://github.com/Qureshiam/iaq-program-pulse.git
 cd iaq-program-pulse
 pip install -r requirements.txt
 streamlit run streamlit_app.py
