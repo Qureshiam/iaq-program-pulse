@@ -1,0 +1,65 @@
+{
+  "company": {
+    "name": "Clearwell Air",
+    "description": "Fictional indoor air quality startup in Doha. Distributes in-duct HVAC purification units and portable purifiers made by a US manufacturer, and runs before-and-after building assessments to prove the equipment works in real rooms.",
+    "note": "All names, people, sites and numbers in this repo are made up for demonstration."
+  },
+  "programs": [
+    {
+      "id": "PORT",
+      "name": "Portable unit launch",
+      "owner": "Reem H. (Sales & Partnerships)",
+      "goal": "Launch the portable purifier (HEPA, carbon and active purification) to offices and villas through two retail partners.",
+      "start_date": "2026-08-20",
+      "target_date": "2026-10-31"
+    },
+    {
+      "id": "SCHL",
+      "name": "School group pilot (in-duct units)",
+      "owner": "Faisal K. (Projects)",
+      "goal": "Fit in-duct purification units to the air handlers serving 12 classrooms and prove the impact with a post-install assessment.",
+      "start_date": "2026-08-27",
+      "target_date": "2026-10-01"
+    },
+    {
+      "id": "ASMT",
+      "name": "Assessment service v2",
+      "owner": "Dr. Lina M. (Air Quality Science)",
+      "goal": "Standardize the before-and-after assessment protocol (mold, VOCs, particles, CO2) so every report is comparable across sites.",
+      "start_date": "2026-08-15",
+      "target_date": "2026-10-15"
+    },
+    {
+      "id": "ERP",
+      "name": "ERPNext field service rollout",
+      "owner": "Omar S. (Operations)",
+      "goal": "Move work orders, inventory and technician scheduling from spreadsheets into ERPNext.",
+      "start_date": "2026-07-15",
+      "target_date": "2026-09-30"
+    },
+    {
+      "id": "SUPP",
+      "name": "Q4 stock import",
+      "owner": "Omar S. (Operations)",
+      "goal": "Import Q4 units, replacement cells and filters from the US manufacturer and keep 8 weeks of service stock on hand.",
+      "start_date": "2026-08-01",
+      "target_date": "2026-10-20"
+    },
+    {
+      "id": "HIRE",
+      "name": "Field technician hiring",
+      "owner": "Sara A. (People)",
+      "goal": "Hire and certify 3 field technicians to support installs and assessments.",
+      "start_date": "2026-08-10",
+      "target_date": "2026-10-30"
+    },
+    {
+      "id": "INV",
+      "name": "Investor update pack (Q3)",
+      "owner": "Founder's office",
+      "goal": "Send the Q3 investor update with pipeline, cash runway and customer impact results.",
+      "start_date": "2026-09-01",
+      "target_date": "2026-10-22"
+    }
+  ]
+}

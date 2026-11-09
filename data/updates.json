@@ -1,0 +1,371 @@
+[
+ {
+  "id": "PORT-2026-09-10",
+  "program_id": "PORT",
+  "week_ending": "2026-09-10",
+  "author": "Reem H.",
+  "self_status": "green",
+  "percent_complete": 25,
+  "text": "Signed term sheet with first retail partner (electronics chain, 6 stores). Second partner still reviewing margins. Product sheets drafted in English, Arabic version with translator."
+ },
+ {
+  "id": "PORT-2026-09-17",
+  "program_id": "PORT",
+  "week_ending": "2026-09-17",
+  "author": "Reem H.",
+  "self_status": "green",
+  "percent_complete": 35,
+  "text": "Arabic product sheets done. Second partner came back asking for 32% margin vs our 25% offer. Planning a call with founder on whether we flex."
+ },
+ {
+  "id": "PORT-2026-09-24",
+  "program_id": "PORT",
+  "week_ending": "2026-09-24",
+  "author": "Reem H.",
+  "self_status": "amber",
+  "percent_complete": 45,
+  "text": "Founder approved 28% as our ceiling. Partner 2 has not replied yet. In-store demo stands ordered from printer, 10 day lead time."
+ },
+ {
+  "id": "PORT-2026-10-01",
+  "program_id": "PORT",
+  "week_ending": "2026-10-01",
+  "author": "Reem H.",
+  "self_status": "amber",
+  "percent_complete": 55,
+  "text": "Partner 2 accepted 28%, contract with their legal. Demo stands arrived but 2 of 8 are damaged, reprint requested. Staff training for store reps booked for Oct 12."
+ },
+ {
+  "id": "PORT-2026-10-08",
+  "program_id": "PORT",
+  "week_ending": "2026-10-08",
+  "author": "Reem H.",
+  "self_status": "green",
+  "percent_complete": 65,
+  "text": "Partner 2 contract signed. Reprinted stands delivered. First stock transfer of 120 units to partner 1 warehouse done."
+ },
+ {
+  "id": "PORT-2026-10-15",
+  "program_id": "PORT",
+  "week_ending": "2026-10-15",
+  "author": "Reem H.",
+  "self_status": "green",
+  "percent_complete": 75,
+  "text": "Store rep training done for partner 1 (14 reps). Partner 2 training moved to Oct 26 because of their stock count week. Launch date of Oct 31 still holds but partner 2 will go live with less than a week of trained staff. Need founder to confirm we launch both partners together or partner 1 first."
+ },
+ {
+  "id": "SCHL-2026-09-10",
+  "program_id": "SCHL",
+  "week_ending": "2026-09-10",
+  "author": "Faisal K.",
+  "self_status": "green",
+  "percent_complete": 20,
+  "text": "Baseline assessment done in all 12 classrooms; airborne mold counts are high in Block B, as the school suspected. Units arrived at our warehouse. School asked for a copy of our Ministry of Public Health approval for their file, sent. Install crew booked for weekends to avoid school hours."
+ },
+ {
+  "id": "SCHL-2026-09-17",
+  "program_id": "SCHL",
+  "week_ending": "2026-09-17",
+  "author": "Faisal K.",
+  "self_status": "green",
+  "percent_complete": 35,
+  "text": "First weekend install: 3 classrooms done. Found that two of the AHUs in Block B have no access panel, need the school's facilities contractor to open the ceiling."
+ },
+ {
+  "id": "SCHL-2026-09-24",
+  "program_id": "SCHL",
+  "week_ending": "2026-09-24",
+  "author": "Faisal K.",
+  "self_status": "green",
+  "percent_complete": 50,
+  "text": "6 classrooms done. Still waiting on the facilities contractor for Block B. School says they will chase them."
+ },
+ {
+  "id": "SCHL-2026-10-01",
+  "program_id": "SCHL",
+  "week_ending": "2026-10-01",
+  "author": "Faisal K.",
+  "self_status": "green",
+  "percent_complete": 58,
+  "text": "7 classrooms done. Block B ceiling access still not confirmed, facilities contractor has not responded to the school for two weeks. Rest of the install is on track."
+ },
+ {
+  "id": "SCHL-2026-10-08",
+  "program_id": "SCHL",
+  "week_ending": "2026-10-08",
+  "author": "Faisal K.",
+  "self_status": "green",
+  "percent_complete": 58,
+  "text": "No installs this weekend, crew moved to a villa job. Block B still waiting on ceiling access. Overall we are on track, just a small delay in Block B."
+ },
+ {
+  "id": "SCHL-2026-10-15",
+  "program_id": "SCHL",
+  "week_ending": "2026-10-15",
+  "author": "Faisal K.",
+  "self_status": "green",
+  "percent_complete": 60,
+  "text": "8 of 12 classrooms installed. Block B (4 classrooms) still blocked, the facilities contractor now says they need a work permit from the school's landlord which could take 3 weeks. The post-install assessment was planned for Oct 29 but can only cover the 8 finished classrooms. The principal asked if we can share early results at the parents' evening on Nov 5. Need a decision on whether to pay our own contractor to open the ceilings (quote is QAR 9,500)."
+ },
+ {
+  "id": "ASMT-2026-09-10",
+  "program_id": "ASMT",
+  "week_ending": "2026-09-10",
+  "author": "Dr. Lina M.",
+  "self_status": "green",
+  "percent_complete": 40,
+  "text": "Draft protocol v2 written: 72 hour logging before install, 72 hours after, same rooms, same occupancy pattern, plus air samples for mold spores sent to an accredited lab. Sensors calibrated against reference unit."
+ },
+ {
+  "id": "ASMT-2026-09-17",
+  "program_id": "ASMT",
+  "week_ending": "2026-09-17",
+  "author": "Dr. Lina M.",
+  "self_status": "green",
+  "percent_complete": 55,
+  "text": "Ran protocol v2 on the school baseline. Report template updated with mold, VOC, PM2.5 and CO2 charts and plain language summary for clients."
+ },
+ {
+  "id": "ASMT-2026-09-24",
+  "program_id": "ASMT",
+  "week_ending": "2026-09-24",
+  "author": "Dr. Lina M.",
+  "self_status": "green",
+  "percent_complete": 70,
+  "text": "Trained Hamad on the protocol. Two villa assessments completed with v2, both reports sent to clients within 5 days."
+ },
+ {
+  "id": "ASMT-2026-10-01",
+  "program_id": "ASMT",
+  "week_ending": "2026-10-01",
+  "author": "Dr. Lina M.",
+  "self_status": "green",
+  "percent_complete": 80,
+  "text": "Added outdoor reference reading to every assessment so dust storm days do not skew results. One sensor drifted, replaced under warranty. Agreed with sales that client reports only quote our own field results, not the manufacturer's lab figures."
+ },
+ {
+  "id": "ASMT-2026-10-08",
+  "program_id": "ASMT",
+  "week_ending": "2026-10-08",
+  "author": "Dr. Lina M.",
+  "self_status": "green",
+  "percent_complete": 90,
+  "text": "Protocol v2 signed off internally. 9 site reports now in the comparable format."
+ },
+ {
+  "id": "ASMT-2026-10-15",
+  "program_id": "ASMT",
+  "week_ending": "2026-10-15",
+  "author": "Dr. Lina M.",
+  "self_status": "green",
+  "percent_complete": 100,
+  "text": "Protocol v2 is live for all new assessments. Average report turnaround is now 4 days, down from 9. Next step is a short methods note we can share with investors and school clients."
+ },
+ {
+  "id": "ERP-2026-09-10",
+  "program_id": "ERP",
+  "week_ending": "2026-09-10",
+  "author": "Omar S.",
+  "self_status": "green",
+  "percent_complete": 70,
+  "text": "Work order module configured by the implementation partner. Inventory items loaded (214 SKUs). Testing with two technicians this week."
+ },
+ {
+  "id": "ERP-2026-09-17",
+  "program_id": "ERP",
+  "week_ending": "2026-09-17",
+  "author": "Omar S.",
+  "self_status": "green",
+  "percent_complete": 80,
+  "text": "Technician mobile app tested. Some issues with offline sync on site, partner is looking into it. Almost done."
+ },
+ {
+  "id": "ERP-2026-09-24",
+  "program_id": "ERP",
+  "week_ending": "2026-09-24",
+  "author": "Omar S.",
+  "self_status": "green",
+  "percent_complete": 85,
+  "text": "Offline sync fix in testing. Almost done, final stages."
+ },
+ {
+  "id": "ERP-2026-10-01",
+  "program_id": "ERP",
+  "week_ending": "2026-10-01",
+  "author": "Omar S.",
+  "self_status": "green",
+  "percent_complete": 85,
+  "text": "Still testing the sync fix. Almost done. Team is still using the spreadsheet in parallel for now."
+ },
+ {
+  "id": "ERP-2026-10-08",
+  "program_id": "ERP",
+  "week_ending": "2026-10-08",
+  "author": "Omar S.",
+  "self_status": "green",
+  "percent_complete": 85,
+  "text": "Final stages. Partner says sync fix will be ready next week."
+ },
+ {
+  "id": "ERP-2026-10-15",
+  "program_id": "ERP",
+  "week_ending": "2026-10-15",
+  "author": "Omar S.",
+  "self_status": "green",
+  "percent_complete": 85,
+  "text": "Almost done. The sync fix from the partner failed testing again, two work orders were duplicated when technicians came back online. Technicians are entering jobs in both ERPNext and the spreadsheet, which is adding about an hour a day each. Partner has asked for 10 more working days and says this is outside the original scope."
+ },
+ {
+  "id": "SUPP-2026-09-10",
+  "program_id": "SUPP",
+  "week_ending": "2026-09-10",
+  "author": "Omar S.",
+  "self_status": "green",
+  "percent_complete": 30,
+  "text": "Q4 forecast agreed: 300 portable units, 150 replacement cells and 400 filters. Sent purchase order request to the US manufacturer."
+ },
+ {
+  "id": "SUPP-2026-09-17",
+  "program_id": "SUPP",
+  "week_ending": "2026-09-17",
+  "author": "Omar S.",
+  "self_status": "green",
+  "percent_complete": 40,
+  "text": "Manufacturer confirmed the order and a ship date of Sep 22. Asked them for the full customs document set this time after last quarter's delay."
+ },
+ {
+  "id": "SUPP-2026-09-24",
+  "program_id": "SUPP",
+  "week_ending": "2026-09-24",
+  "author": "Omar S.",
+  "self_status": "green",
+  "percent_complete": 50,
+  "text": "Order shipped by sea, ETA Oct 6. Current service stock of replacement cells and filters covers about 6 weeks."
+ },
+ {
+  "id": "SUPP-2026-10-01",
+  "program_id": "SUPP",
+  "week_ending": "2026-10-01",
+  "author": "Omar S.",
+  "self_status": "green",
+  "percent_complete": 60,
+  "text": "Shipment on schedule. Customs broker has the commercial invoice and packing list."
+ },
+ {
+  "id": "SUPP-2026-10-08",
+  "program_id": "SUPP",
+  "week_ending": "2026-10-08",
+  "author": "Omar S.",
+  "self_status": "amber",
+  "percent_complete": 65,
+  "text": "Shipment arrived but is held at customs, missing a certificate of conformity. Manufacturer is reissuing it."
+ },
+ {
+  "id": "SUPP-2026-10-15",
+  "program_id": "SUPP",
+  "week_ending": "2026-10-15",
+  "author": "Omar S.",
+  "self_status": "amber",
+  "percent_complete": 65,
+  "text": "Shipment still held at customs. New certificate expected Oct 20. We have about 3 weeks of replacement cells and filters left for service visits, and partner 2's launch stock is on the same shipment. Option is to air freight 150 filters and 40 cells from the manufacturer for an extra QAR 6,200 to cover the gap. Need approval by Oct 19."
+ },
+ {
+  "id": "HIRE-2026-09-10",
+  "program_id": "HIRE",
+  "week_ending": "2026-09-10",
+  "author": "Sara A.",
+  "self_status": "green",
+  "percent_complete": 20,
+  "text": "Job ads live. 41 applicants, 9 shortlisted."
+ },
+ {
+  "id": "HIRE-2026-09-17",
+  "program_id": "HIRE",
+  "week_ending": "2026-09-17",
+  "author": "Sara A.",
+  "self_status": "green",
+  "percent_complete": 35,
+  "text": "First interviews done with 9. 4 going to practical test on an install."
+ },
+ {
+  "id": "HIRE-2026-09-24",
+  "program_id": "HIRE",
+  "week_ending": "2026-09-24",
+  "author": "Sara A.",
+  "self_status": "green",
+  "percent_complete": 50,
+  "text": "Practical tests done. Offers made to 3 candidates."
+ },
+ {
+  "id": "HIRE-2026-10-01",
+  "program_id": "HIRE",
+  "week_ending": "2026-10-01",
+  "author": "Sara A.",
+  "self_status": "green",
+  "percent_complete": 60,
+  "text": "2 offers accepted, 1 candidate declined for a higher offer. Back to the shortlist for the third role."
+ },
+ {
+  "id": "HIRE-2026-10-08",
+  "program_id": "HIRE",
+  "week_ending": "2026-10-08",
+  "author": "Sara A.",
+  "self_status": "green",
+  "percent_complete": 70,
+  "text": "Two new technicians started Oct 5 and are shadowing installs. Third role: second choice candidate interviewing again on Oct 13. Visa processing for the new starters is moving normally."
+ },
+ {
+  "id": "INV-2026-09-10",
+  "program_id": "INV",
+  "week_ending": "2026-09-10",
+  "author": "Founder's office",
+  "self_status": "green",
+  "percent_complete": 10,
+  "text": "Outline agreed: pipeline, cash runway, hiring, customer impact, and how we support the QNE 2024 indoor air quality pillar. Target send date Oct 22."
+ },
+ {
+  "id": "INV-2026-09-17",
+  "program_id": "INV",
+  "week_ending": "2026-09-17",
+  "author": "Founder's office",
+  "self_status": "green",
+  "percent_complete": 20,
+  "text": "Pipeline numbers pulled from CRM. Finance working on runway model."
+ },
+ {
+  "id": "INV-2026-09-24",
+  "program_id": "INV",
+  "week_ending": "2026-09-24",
+  "author": "Founder's office",
+  "self_status": "green",
+  "percent_complete": 35,
+  "text": "Runway model done. Waiting on the school pilot impact numbers for the customer section."
+ },
+ {
+  "id": "INV-2026-10-01",
+  "program_id": "INV",
+  "week_ending": "2026-10-01",
+  "author": "Founder's office",
+  "self_status": "green",
+  "percent_complete": 45,
+  "text": "Draft deck v1 shared internally. Customer impact slide is a placeholder until the school pilot results."
+ },
+ {
+  "id": "INV-2026-10-08",
+  "program_id": "INV",
+  "week_ending": "2026-10-08",
+  "author": "Founder's office",
+  "self_status": "green",
+  "percent_complete": 55,
+  "text": "Feedback from two board members: they want real before-and-after numbers, not projections."
+ },
+ {
+  "id": "INV-2026-10-15",
+  "program_id": "INV",
+  "week_ending": "2026-10-15",
+  "author": "Founder's office",
+  "self_status": "amber",
+  "percent_complete": 60,
+  "text": "Customer impact section still depends on the school pilot post-install assessment on Oct 29, which is after our Oct 22 send date. Options: use the 9 villa and office results from assessment v2 instead, or move the send date to early November. Board chair prefers we do not slip."
+ }
+]

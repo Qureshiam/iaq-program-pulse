@@ -1,0 +1,186 @@
+[
+  {
+    "update_id": "PORT-2026-10-15",
+    "status": "at_risk",
+    "reason": "The Oct 31 launch holds, but partner 2's store staff will have less than a week of training.",
+    "status_evidence": "partner 2 will go live with less than a week of trained staff",
+    "risks": [
+      {
+        "description": "Partner 2 store reps go live with minimal training, which may hurt early sales and demos.",
+        "severity": "medium",
+        "owner": null,
+        "evidence": "Partner 2 training moved to Oct 26 because of their stock count week"
+      }
+    ],
+    "decisions": [
+      {
+        "description": "Launch both retail partners together on Oct 31, or launch partner 1 first.",
+        "needed_by": null,
+        "evidence": "Need founder to confirm we launch both partners together or partner 1 first"
+      }
+    ],
+    "confidence": "high",
+    "model": "claude-sonnet-5-5 (saved demo output)",
+    "prompt_version": "v2"
+  },
+  {
+    "update_id": "SCHL-2026-10-15",
+    "status": "off_track",
+    "reason": "The install target has passed with 8 of 12 classrooms done, and the last 4 wait on a permit that could take 3 weeks.",
+    "status_evidence": "Block B (4 classrooms) still blocked",
+    "risks": [
+      {
+        "description": "Block B install depends on a landlord work permit with a possible 3 week wait.",
+        "severity": "high",
+        "owner": null,
+        "evidence": "need a work permit from the school's landlord which could take 3 weeks"
+      },
+      {
+        "description": "The Oct 29 post-install assessment will only cover two thirds of the classrooms.",
+        "severity": "medium",
+        "owner": null,
+        "evidence": "can only cover the 8 finished classrooms"
+      }
+    ],
+    "decisions": [
+      {
+        "description": "Pay our own contractor to open the Block B ceilings (QAR 9,500) instead of waiting for the landlord permit.",
+        "needed_by": null,
+        "evidence": "Need a decision on whether to pay our own contractor to open the ceilings (quote is QAR 9,500)"
+      },
+      {
+        "description": "Whether to share early results with parents before the full assessment is done.",
+        "needed_by": "Nov 5",
+        "evidence": "The principal asked if we can share early results at the parents' evening on Nov 5"
+      }
+    ],
+    "confidence": "high",
+    "model": "claude-sonnet-5-5 (saved demo output)",
+    "prompt_version": "v2"
+  },
+  {
+    "update_id": "ASMT-2026-10-15",
+    "status": "on_track",
+    "reason": "Protocol v2 is live and report turnaround dropped from 9 days to 4.",
+    "status_evidence": "Protocol v2 is live for all new assessments",
+    "risks": [],
+    "decisions": [],
+    "confidence": "high",
+    "model": "claude-sonnet-5-5 (saved demo output)",
+    "prompt_version": "v2"
+  },
+  {
+    "update_id": "ERP-2026-10-15",
+    "status": "off_track",
+    "reason": "The offline sync fix failed again, the Sep 30 target has passed, and the partner now says the fix is out of scope.",
+    "status_evidence": "The sync fix from the partner failed testing again",
+    "risks": [
+      {
+        "description": "Technicians are double-entering every job, costing about an hour a day each.",
+        "severity": "high",
+        "owner": null,
+        "evidence": "Technicians are entering jobs in both ERPNext and the spreadsheet, which is adding about an hour a day each"
+      },
+      {
+        "description": "Partner wants 10 more working days and treats the fix as out of scope, so cost and timing are open.",
+        "severity": "high",
+        "owner": null,
+        "evidence": "Partner has asked for 10 more working days and says this is outside the original scope"
+      },
+      {
+        "description": "Duplicate work orders when syncing could corrupt job and inventory records.",
+        "severity": "medium",
+        "owner": null,
+        "evidence": "two work orders were duplicated when technicians came back online"
+      }
+    ],
+    "decisions": [],
+    "confidence": "high",
+    "model": "claude-sonnet-5-5 (saved demo output)",
+    "prompt_version": "v2"
+  },
+  {
+    "update_id": "SUPP-2026-10-15",
+    "status": "at_risk",
+    "reason": "Stock is stuck at customs; service parts may run short and partner 2's launch stock is on the same shipment.",
+    "status_evidence": "Shipment still held at customs",
+    "risks": [
+      {
+        "description": "Service stock of replacement cells and filters may run out.",
+        "severity": "high",
+        "owner": null,
+        "evidence": "We have about 3 weeks of replacement cells and filters left for service visits"
+      },
+      {
+        "description": "Release depends on a replacement certificate that is not yet in hand.",
+        "severity": "medium",
+        "owner": null,
+        "evidence": "New certificate expected Oct 20"
+      },
+      {
+        "description": "Partner 2's portable launch stock is on the held shipment.",
+        "severity": "high",
+        "owner": null,
+        "evidence": "partner 2's launch stock is on the same shipment"
+      }
+    ],
+    "decisions": [
+      {
+        "description": "Approve air freight of 150 filters and 40 cells for an extra QAR 6,200 to cover the gap.",
+        "needed_by": "Oct 19",
+        "evidence": "air freight 150 filters and 40 cells from the manufacturer for an extra QAR 6,200 to cover the gap"
+      }
+    ],
+    "confidence": "high",
+    "model": "claude-sonnet-5-5 (saved demo output)",
+    "prompt_version": "v2"
+  },
+  {
+    "update_id": "HIRE-2026-10-08",
+    "status": "on_track",
+    "reason": "Two technicians have started and the third role is in final interviews.",
+    "status_evidence": "Two new technicians started Oct 5 and are shadowing installs",
+    "risks": [
+      {
+        "description": "Third technician role is still open.",
+        "severity": "low",
+        "owner": null,
+        "evidence": "second choice candidate interviewing again on Oct 13"
+      }
+    ],
+    "decisions": [],
+    "confidence": "medium",
+    "model": "claude-sonnet-5-5 (saved demo output)",
+    "prompt_version": "v2"
+  },
+  {
+    "update_id": "INV-2026-10-15",
+    "status": "at_risk",
+    "reason": "The customer impact section waits on school pilot results due after the Oct 22 send date.",
+    "status_evidence": "which is after our Oct 22 send date",
+    "risks": [
+      {
+        "description": "Investor update depends on the delayed school pilot assessment.",
+        "severity": "high",
+        "owner": null,
+        "evidence": "Customer impact section still depends on the school pilot post-install assessment on Oct 29"
+      },
+      {
+        "description": "Board chair has tied the next funding round to the school pilot numbers.",
+        "severity": "high",
+        "owner": null,
+        "evidence": "the next round depends on these numbers"
+      }
+    ],
+    "decisions": [
+      {
+        "description": "Use the 9 villa and office results now, or move the send date to early November.",
+        "needed_by": "Oct 22",
+        "evidence": "Options: use the 9 villa and office results from assessment v2 instead, or move the send date to early November"
+      }
+    ],
+    "confidence": "medium",
+    "model": "claude-sonnet-5-5 (saved demo output)",
+    "prompt_version": "v2"
+  }
+]

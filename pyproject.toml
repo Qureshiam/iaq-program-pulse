@@ -1,0 +1,17 @@
+[project]
+name = "iaq-program-pulse"
+version = "0.1.0"
+description = "AI status reporting with human sign-off, for a fictional indoor air quality startup."
+requires-python = ">=3.11"
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
+filterwarnings = ["ignore::DeprecationWarning"]
+
+[tool.ruff]
+line-length = 120
+target-version = "py311"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "B", "UP"]

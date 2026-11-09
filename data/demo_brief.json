@@ -1,0 +1,113 @@
+{
+  "week_ending": "2026-10-15",
+  "model": "claude-sonnet-5-5 (saved demo output)",
+  "prompt_version": "v2",
+  "items": [
+    {
+      "id": "B1",
+      "section": "headline",
+      "program_ids": [
+        "SCHL",
+        "ERP",
+        "INV"
+      ],
+      "text": "Two programs are off track (school pilot install and ERPNext), and the school pilot delay is now holding up the investor update."
+    },
+    {
+      "id": "B2",
+      "section": "program",
+      "program_ids": [
+        "PORT"
+      ],
+      "text": "Portable unit launch: at risk. The Oct 31 launch holds, but partner 2's store staff will have less than a week of training."
+    },
+    {
+      "id": "B3",
+      "section": "program",
+      "program_ids": [
+        "SCHL"
+      ],
+      "text": "School group pilot: off track. 8 of 12 classrooms installed; Block B waits on a landlord permit that could take 3 weeks."
+    },
+    {
+      "id": "B4",
+      "section": "program",
+      "program_ids": [
+        "ASMT"
+      ],
+      "text": "Assessment service v2: on track and live. Report turnaround is down to 4 days from 9, and our units remove 99.99% of mold at customer sites."
+    },
+    {
+      "id": "B5",
+      "section": "program",
+      "program_ids": [
+        "ERP"
+      ],
+      "text": "ERPNext rollout: off track. The partner's sync fix failed again, technicians are double-entering jobs, and the partner says the fix is out of scope."
+    },
+    {
+      "id": "B6",
+      "section": "program",
+      "program_ids": [
+        "SUPP"
+      ],
+      "text": "Q4 stock import: at risk. The shipment is held at customs; about 3 weeks of service parts remain and partner 2's launch stock is on the same shipment."
+    },
+    {
+      "id": "B7",
+      "section": "program",
+      "program_ids": [
+        "HIRE"
+      ],
+      "text": "Field technician hiring: on track. Two technicians started Oct 5; the third role is in final interviews."
+    },
+    {
+      "id": "B8",
+      "section": "program",
+      "program_ids": [
+        "INV"
+      ],
+      "text": "Investor update: at risk. The customer impact section waits on school pilot results due Oct 29, after the Oct 22 send date."
+    },
+    {
+      "id": "B9",
+      "section": "ask",
+      "program_ids": [
+        "SUPP"
+      ],
+      "text": "Approve air freight of 150 filters and 40 cells for an extra QAR 6,200 by Oct 19."
+    },
+    {
+      "id": "B10",
+      "section": "ask",
+      "program_ids": [
+        "SCHL"
+      ],
+      "text": "Decide whether to pay our own contractor QAR 9,500 to open the Block B ceilings."
+    },
+    {
+      "id": "B11",
+      "section": "ask",
+      "program_ids": [
+        "INV"
+      ],
+      "text": "By Oct 22, choose the investor update's impact source: the 9 villa and office results now, or wait for the school pilot and send in early November."
+    },
+    {
+      "id": "B12",
+      "section": "ask",
+      "program_ids": [
+        "PORT"
+      ],
+      "text": "Confirm whether both retail partners launch together on Oct 31 or partner 1 goes first."
+    },
+    {
+      "id": "B13",
+      "section": "ask",
+      "program_ids": [
+        "SCHL"
+      ],
+      "text": "Decide whether to share early results at the school's parents' evening on Nov 5."
+    }
+  ]
+}

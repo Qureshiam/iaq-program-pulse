@@ -1,0 +1,5 @@
+streamlit>=1.50,<2
+pandas>=2.2
+pydantic>=2.7,<3
+anthropic>=0.40
+altair>=5
