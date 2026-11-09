@@ -14,7 +14,7 @@ from pulse.grounding import all_grounded
 from pulse.models import AIStatus, Analysis, SelfStatus
 
 # Change this to your own repository address after you upload the code.
-REPO_URL = "https://github.com/YOUR-GITHUB-USERNAME/iaq-program-pulse"
+REPO_URL = "https://github.com/Qureshiam/iaq-program-pulse"
 
 # Status colors are reserved for status only, and always shown with an icon and a word.
 STATUS_STYLE = {
